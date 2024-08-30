@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f8fa;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.get-trezor-btn {
+    background-color: #006b51;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #e0f7f1;
+}
+
+.hero h1 {
+    font-size: 36px;
+    color: #006b51;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #333;
+}
+
+.download-btn, .suite-web-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 15px 30px;
+    background-color: #006b51;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.footer-content {
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-content nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.footer-content nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #0F6148;
+        }
+
+        h2 {
+            color: #0F6148;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .faq {
+            background-color: #e2e2e2;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
